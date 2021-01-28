@@ -27,7 +27,7 @@ The only external dependance is the ROOT analysis software from CERN. The progra
 is not guaranteed to be succesful.
 
 ## Notes
-This program is a spiritual successor to the SpecPlot program written by D.W. Visser at Yale while the SPS was at Yale.
+This program is a C++/ROOT re-write of the SpecPlot program written by D.W. Visser at Yale while the SPS was at Yale.
 
 ## Building the application and Running
 

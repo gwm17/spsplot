@@ -1,0 +1,10 @@
+#Things to be ignored
+*.sublime-project
+*.sublime-workspace
+*.o
+spsplot
+*.pcm
+*.cxx
+
+#Things to specifically keep
+!.gitignore

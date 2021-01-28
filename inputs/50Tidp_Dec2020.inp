@@ -1,0 +1,7 @@
+BeamKE(MeV): 16
+Bfield(kG): 8.125
+Theta: 25
+RhoMin(cm): 68 RhoMax(cm): 83
+
+AT	ZT	AP	ZP	AE	ZE
+50	22	2	1	1	1
